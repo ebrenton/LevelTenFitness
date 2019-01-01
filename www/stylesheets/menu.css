@@ -1,0 +1,36 @@
+﻿
+.menuHead{
+    background-color:#0a4b7d;
+    color:white;
+    font-family:papy;
+    border:2px solid #0c2279;
+    width:90px;
+    padding:3px;
+}
+
+.menuHeadOver{
+    background-color:#0e66d1;
+    color:white;
+    font-family:papy;
+    border:2px solid #0c2279;
+    width:90px;
+    padding:3px;
+}
+
+.menuItem{
+    background-color:#0a4b7d;
+    color:white;
+    font-family:papy;
+    border:2px solid #0c2279;
+    white-space:nowrap;
+    padding:3px;
+}
+
+.menuItemOver{
+    background-color:#0e66d1;
+    color:white;
+    font-family:papy;
+    border:2px solid #0c2279;
+    white-space:nowrap;
+    padding:3px;
+}

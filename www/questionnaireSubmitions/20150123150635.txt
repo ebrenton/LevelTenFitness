@@ -1,0 +1,40 @@
+﻿Submitted: 1/23/2015 3:06:35 PM
+
+Name: Test
+Telephone: 123-123-1234
+Email: me@here.com
+Age: 1123
+Gender: M
+Weight: 123
+Height: 123
+
+1. How would you categorize your current fitness level?
+Beginner
+
+2. How often do you workout? 
+123
+
+3. What do you do for cardio?
+123
+
+4. Are you doing any resistance training (lifting weights)?
+123
+
+5. Do you belong to a gym or fitness facility? If so, do you generally take group fitness classes, workout on your own, or both?
+13
+
+6. Do you have any health problems? If so, please list them and any medications you are taking.
+123
+
+7. Do you have any injuries that may restrict you from particular exercises?
+123
+
+8. What is your favorite type of exercise? Running, cycling, lifting weights, group fitness classes, cross fit, martial arts, etc.
+123
+
+9. Do you feel you eat a fairly healthy diet?
+123
+
+10. What goals do you want to meet by working with a trainer?
+123
+
